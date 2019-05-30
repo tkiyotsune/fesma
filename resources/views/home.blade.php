@@ -14,7 +14,9 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    <p>商品名：{{ $product -> name }}</p>
+                    <p>値段：{{ $product -> price }}</p>
+                    <p>詳細：{{ $product -> detail }}</p>
                 </div>
             </div>
         </div>
