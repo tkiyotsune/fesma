@@ -14,13 +14,13 @@
                         </div>
                     @endif
 
-<<<<<<< HEAD
+
                     <p>商品名：{{ $product -> name }}</p>
                     <p>値段：{{ $product -> price }}</p>
                     <p>詳細：{{ $product -> detail }}</p>
-=======
+
                     ログインしました!
->>>>>>> 027b8c393bc13b578aebad6623d61f18380fe262
+
                 </div>
             </div>
         </div>
